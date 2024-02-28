@@ -1,9 +1,15 @@
-### Hi there 👋
-
-<!--
-**LayaDelta/LayaDelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi i am Delta 👋
+Web developer in process
+<img src = "./Twich Banner Offline Organico Azul Negro .png"> 
 
 Here are some ideas to get you started:
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
