@@ -1,4 +1,4 @@
-<H1 alips="center">Hi, I Am Delta, Web devoloper in progress</H1>
+<H1 align="center">Hi, I Am Delta, Web devoloper in progress👋👋👋</H1>
 <img src = "./Twich Banner Offline Organico Azul Negro .png"> 
 
 Here are some ideas to get you started:
